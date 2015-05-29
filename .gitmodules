@@ -7,3 +7,6 @@
 [submodule "sites/all/modules/bakery_user_module1"]
 	path = sites/all/modules/bakery_user_module1
 	url = https://github.com/geoff-winner/bakery_user_module1
+[submodule "sites/all/modules/subject_module"]
+	path = sites/all/modules/subject_module
+	url = https://github.com/geoff-winner/subject_module.git
